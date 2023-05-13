@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ajaykum11012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaykum11012@gmail.com)](mailto:ajaykum11012@gmail.com)
 
 
-Hi, I'm Michael, a programmer 👨🏻‍💻 from Pune, Maharastra. I'm a Software Test Engineer I'm working as a UI Automation, with a focus on Selenium with Java and TestNG. Outside of work, I really enjoy free travelling and eating street food.
+Hi, I'm Ajay, a programmer 👨🏻‍💻 from Pune, Maharastra. I'm a Software Test Engineer I'm working as a UI Automation, with a focus on Selenium with Java and TestNG. Outside of work, I really enjoy free travelling and eating street food.
 
 
 
