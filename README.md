@@ -17,7 +17,7 @@ Java, Hybrid Framework, Cross Browser TestNg, Parallel TesƟng, POM paƩern desi
 
 ## **Current Status**
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working and building Automation Framework from scratch on [FullAutomationFrameWork](https://github.com/underscoore/FullAutomationFrameWork) Check this out!!!
 - 🌱 I’m currently learning more about Hyper Automation.
 - 🤔 My research interests are with Machine Learning, Deep Reinforcement Learning, etc.
 - 💬 Ask me about anything, I would like to answer.
