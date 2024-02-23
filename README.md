@@ -28,4 +28,4 @@ Java, Hybrid Framework, Cross Browser TestNg, Parallel TesƟng, POM paƩern desi
 - 😄 Pronouns: Ajay
 - ⚡ Fun fact: ?
 
-![Ajay Kumar's github stats](https://github-readme-stats.vercel.app/api?username=underscoore&show_icons=true&hide_border=true)
+![Ajay Kumar's github stats](https://github-readme-stats.vercel.app/api?username=underscoree&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)
