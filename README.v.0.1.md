@@ -4,6 +4,10 @@
 | :---         | :---    | ---:          |
 | 🌱 I’m currently working on [KeenCode.](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1) a YouTube Channel.<br>🤔 My research interests are with Small Language Model (This isn't existed yet 😂)<br>💬 Ask me about anything, I would like to answer.<br>📫 Please email via ajaykum11012@gmail.com to reach me.<br>👯 I’m looking to collaborate on new open projects on JavaScript/rust<br>📫 How to reach me: LinkedIn, Email, Instagram<br>😄 Pronouns: Aj<br>⚡ Fun fact: I am a fan of bit shifting |askdjalkd |
 
+💫 About Me:| Blogs  |
+| :---         | :---    | ---:          |
+| 🌱 I’m currently working on [KeenCode.](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1) a YouTube Channel.<br>🤔 My research interests are with Small Language Model (This isn't existed yet 😂)<br>💬 Ask me about anything, I would like to answer.<br>📫 Please email via ajaykum11012@gmail.com to reach me.<br>👯 I’m looking to collaborate on new open projects on JavaScript/rust<br>📫 How to reach me: LinkedIn, Email, Instagram<br>😄 Pronouns: Aj<br>⚡ Fun fact: I am a fan of bit shifting |askdjalkd |
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajay.kmr1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay110) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajayonx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1) 
 
