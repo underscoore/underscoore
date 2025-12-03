@@ -1,7 +1,7 @@
 [![Image](IamAjay.png)]()
 
 # 💫 About Me:
-🌱 I’m currently working on [KeenCode.](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1) a YouTube Channel.<br>🤔 My research interests are with Small Language Model (This isn't existed yet 😂)<br>💬 Ask me about anything, I would like to answer.<br>📫 Please email via ajaykum11012@gmail.com to reach me.<br>👯 I’m looking to collaborate on new open projects on JavaScript/rust<br>📫 How to reach me: LinkedIn, Email, Instagram<br>😄 Pronouns: Aj<br>⚡ Fun fact: I am a fan of bit shifting
+🌱 I’m currently working on [KeenCode.](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1) a YouTube Channel.<br>🤔 My research interests are with Small Language Model (This isn't existed yet 😂)<br>💬 Ask me about anything, I would like to answer.<br>👯 I’m looking to collaborate on new open projects on JavaScript/rust<br>📫 How to reach me: LinkedIn, Email, Instagram<br>😄 Pronouns: Aj<br>💻 [Hey! Chekout my portfolio](https://www.ajaykumar.cc)<br>⚡ Fun fact: I am a fan of bit shifting
 
 
 ## 🌐 Socials:
